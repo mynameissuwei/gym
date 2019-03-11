@@ -145,3 +145,7 @@ col-lg一般用于大屏设备，(min-width:1200px);col-md一般用于中屏设�
   现在 思路
 
 
+  antd 获取自定义组件表单的值
+
+  根据initValue 来传值 , 然后根据 { onChange } = this.props 来修改props中的值
+
