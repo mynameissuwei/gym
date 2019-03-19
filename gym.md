@@ -149,3 +149,6 @@ col-lg一般用于大屏设备，(min-width:1200px);col-md一般用于中屏设�
 
   根据initValue 来传值 , 然后根据 { onChange } = this.props 来修改props中的值
 
+  2019/3/18
+  今天开始和小哥一起锻炼
+
