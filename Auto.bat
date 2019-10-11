@@ -5,7 +5,7 @@ netsh wlan disconnect
 
 netsh wlan connect ssid=1502 name=1502
 
-ping -n 5 127.0.0.1 > nul
+ping -n 1 14.215.177.39 > nul
 
 @title Auto Green Point
 
