@@ -1,8 +1,8 @@
 @echo off
-@title Auto Green Point
-
 netsh wlan disconnect
 netsh wlan connect ssid=1502 name=1502
+cd /d %~dp0
+@title Auto Green Point
 
 echo *>>README.md
 git add .
