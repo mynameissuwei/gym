@@ -1,6 +1,7 @@
-cd /d %~dp0
 
 @echo off
+cd /d %~dp0
+
 netsh wlan disconnect
 netsh wlan connect ssid=1502 name=1502
 @title Auto Green Point
