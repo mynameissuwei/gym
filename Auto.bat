@@ -14,7 +14,7 @@ git add .
 git commit -m "A commit a day keeps the girlfriend away."
 git push  origin master
 
-echo I'm Stronger...
+echo welcome suwei programmer
 
 pause
 
