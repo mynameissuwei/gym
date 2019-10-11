@@ -1,5 +1,7 @@
 
 @echo off
+cd /d %~dp0
+
 
 @title Auto Green Point
 
